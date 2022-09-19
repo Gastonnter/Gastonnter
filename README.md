@@ -1,5 +1,5 @@
 ### Hi, I`m Gaston
-- `#0969DA I am currently learning wed full stack development`
+-  I am currently learning wed full stack development :pencil:
 <!--
 **Gastonnter/Gastonnter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
