@@ -1,5 +1,5 @@
 ### Hi, I`m Gaston
-- Actualmente estyoy aprendio desarrollo web full stack .
+- `#0969DA I am currently learning wed full stack development`
 <!--
 **Gastonnter/Gastonnter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
