@@ -1,12 +1,13 @@
-### Hi, I`m Gaston
--  I am currently learning wed full stack development :pencil:
+### :wave: ***Hi, I'm Gaston***
+- :fountain_pen: *I'am  learning wed full stack dev*.
+
 <!--
 **Gastonnter/Gastonnter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning full stack web dev
+- 🌱 I'm currently learning full stack web dev
 - 👯 I’m looking to collaborate on...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
