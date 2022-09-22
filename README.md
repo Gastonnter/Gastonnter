@@ -1,6 +1,6 @@
 ### :wave: ***Hi, I'm Gaston***
-- :fountain_pen: *I'am  learning wed full stack dev*.
-- *programming language: javascrypt*
+-
+
 
 <!--
 **Gastonnter/Gastonnter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
