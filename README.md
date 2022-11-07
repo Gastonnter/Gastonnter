@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi !! , my name is Gaston.<br>I am a web developer.
+
+Hi !! , my name is Gaston
 
 
 ## 🌐 Socials:
