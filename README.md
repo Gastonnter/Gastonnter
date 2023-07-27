@@ -9,6 +9,7 @@ Hi, I'm Gaston Terminiello. I am a person with great adaptability and a desire t
 
 
 
+https://img.shields.io/github/commits-difference/gastonnter/https%3A%2F%2Fgithub.com%2FExperionSolution%2Fecommerce-node
 
 [![](https://visitcount.itsvg.in/api?id=gastonnter&icon=0&color=0)](https://visitcount.itsvg.in)
 
