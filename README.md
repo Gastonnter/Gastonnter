@@ -5,7 +5,9 @@ Hi, I'm Gaston Terminiello. I am a person with great adaptability and a desire t
 ## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-terminiello) 
 ## Servidor de Discord
-![Discord](https://img.shields.io/discord/1134204054877249536?color=%237289DA&label=Discord&logo=discord&logoColor=white)(https://discord.gg/8RHtTj5V)]
+<a href="https://discord.gg/8RHtTj5V">
+  <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
