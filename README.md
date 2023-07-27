@@ -2,7 +2,7 @@
 Hi, I'm Gaston Terminiello. I am a person with great adaptability and a desire to improve, who learns quickly and is characterized by being in search of useful and updated information.
 
 ## 🌐 Socials:
-## LikeIn
+## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-terminiello) 
 ## Servidor de Discord
 ![Discord](https://img.shields.io/discord/1134204054877249536?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8RHtTj5V)
