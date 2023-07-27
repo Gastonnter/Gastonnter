@@ -6,7 +6,7 @@ Hi, I'm Gaston Terminiello. I am a person with great adaptability and a desire t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-terminiello) 
 ## Servidor de Discord
 <a href="https://discord.gg/8RHtTj5V">
-  <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Contact%20Me%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 # 💻 Tech Stack:
