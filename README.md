@@ -1,11 +1,9 @@
-[<style>
-body{
-backgroundcolor:red
-}
-</style>]
+| <div style="background-color: #f0f0f0; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> |
+|---|
+
 
 # Hi there, I'm Gaston Terminiello! 👋
-
+## About Me
 I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information.
 
 ## 🌐 Socials:
@@ -72,6 +70,3 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </details>
 
-## About Me
-
-Hello, I'm Gaston Terminiello! I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information. 
