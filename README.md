@@ -10,7 +10,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 ## 💻 Tech Stack:
 
 <details>
-<summary><strong>Programming Languages:</strong></summary>
+<summary> 🚀 <strong> Programming Languages:</strong></summary>
 
 - JavaScript
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +20,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 </details>
 
 <details>
-<summary><strong>Frameworks and Platforms:</strong></summary>
+<summary> ⚡ <strong>Frameworks and Platforms:</strong></summary>
 
 - Express.js
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -33,7 +33,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 </details>
 
 <details>
-<summary><strong>Databases:</strong></summary>
+<summary> 🔍 <strong>Databases:</strong></summary>
 
 - MySQL
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,21 +46,21 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 </details>
 
 <details>
-<summary><strong>Authentication with JWT:</strong></summary>
+<summary> 🔒 <strong>Authentication with JWT:</strong></summary>
 
 - JSON Web Tokens (JWT)
   ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge)
 </details>
 
 <details>
-<summary><strong>Containers:</strong></summary>
+<summary> 🐳 <strong>Containers:</strong></summary>
 
 - Docker
   ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
 <details>
-<summary><strong>Server-Side Language:</strong></summary>
+<summary> 🖥️ <strong>Server-Side Language:</strong></summary>
 
 - Node.js
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -68,4 +68,4 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 ## About Me
 
-Hello, I'm Gaston Terminiello! I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information. Connect with me on [LinkedIn](https://www.linkedin.com/in/gaston-terminiello/) or reach out to me on Discord at username#1234. Let's chat!
+Hello, I'm Gaston Terminiello! I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information. 
