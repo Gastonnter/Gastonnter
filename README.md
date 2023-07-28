@@ -48,3 +48,39 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gastonnter&layout=compact&theme=radical)
 
 </details>
+<details>
+<summary><strong>Skills and Interests ✨</strong></summary>
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+<!-- Add more skills and interests as needed -->
+
+</details>
+
+<details>
+<summary><strong>Education 🎓</strong></summary>
+
+- Degree in Computer Science, University Name, Year
+- Online Course, Platform, Year
+
+<!-- Add more education details as needed -->
+
+</details>
+
+<details>
+<summary><strong>Work Experience 💼</strong></summary>
+
+- Job Title, Company Name, Dates
+  - Job description and achievements.
+
+- Job Title, Company Name, Dates
+  - Job description and achievements.
+
+<!-- Add more work experience details as needed -->
+
+</details>
+
+<details>
+<summary><strong
