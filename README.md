@@ -1,69 +1,114 @@
+<!-- Add the following HTML and CSS code before the content -->
+
+<!-- Add some CSS for styling -->
+<style>
+  body {
+    background-color: #f0f0f0; /* Light gray background color */
+    color: #333; /* Dark text color */
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Apply styles for the tech stack section */
+  details {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* White background color for tech stack section */
+  }
+
+  /* Style for the summary tag */
+  summary {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  /* Apply styles for the icons */
+  .icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+
+  /* Add animation effect on hover */
+  .icon:hover {
+    transform: scale(1.2);
+    transition: transform 0.2s ease-in-out;
+  }
+</style>
+
+<!-- Now, let's update the content with icons and animations -->
+
 # Hi there, I'm Gaston Terminiello! 👋
 
 I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gaston-terminiello/)
+[<img class="icon" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/gaston-terminiello/)
 &nbsp;&nbsp;&nbsp;
-[![Contact Me on Discord](https://img.shields.io/badge/Contact%20Me%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8RHtTj5V)
+[<img class="icon" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>](https://discord.gg/8RHtTj5V)
 
 ## 💻 Tech Stack:
 
 <details>
-<summary><strong>Programming Languages:</strong></summary>
+<summary class="icon">🚀 <strong>Programming Languages:</strong></summary>
 
 - JavaScript
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 - TypeScript
-  ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </details>
 
 <details>
-<summary><strong>Frameworks and Platforms:</strong></summary>
+<summary class="icon">⚡ <strong>Frameworks and Platforms:</strong></summary>
 
 - Express.js
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 - Fastify
-  ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/fastify.png"/>
 
 - React
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </details>
 
 <details>
-<summary><strong>Databases:</strong></summary>
+<summary class="icon">🔍 <strong>Databases:</strong></summary>
 
 - MySQL
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 
 - MongoDB
-  ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 - PostgreSQL
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </details>
 
 <details>
-<summary><strong>Authentication with JWT:</strong></summary>
+<summary class="icon">🔒 <strong>Authentication with JWT:</strong></summary>
 
 - JSON Web Tokens (JWT)
-  ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/json-web-token.png"/>
 </details>
 
 <details>
-<summary><strong>Containers:</strong></summary>
+<summary class="icon">🐳 <strong>Containers:</strong></summary>
 
 - Docker
-  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/docker.png"/>
 </details>
 
 <details>
-<summary><strong>Server-Side Language:</strong></summary>
+<summary class="icon">🖥️ <strong>Server-Side Language:</strong></summary>
 
 - Node.js
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  <img class="icon" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </details>
 
 ## About Me
