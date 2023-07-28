@@ -25,11 +25,11 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 
 ## 📫 Contact:
-- Email: your.email@example.com
-- Phone: +1234567890
+- Email: terminiello.gastonnahue@gmail.com.com
+- Phone: +54-2215414540
 
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gastonnter&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gastonnter&layout=compact&theme=radical)
