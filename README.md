@@ -1,3 +1,9 @@
+[<style>
+body{
+backgroundcolor:red
+}
+</style>]
+
 # Hi there, I'm Gaston Terminiello! 👋
 
 I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information.
