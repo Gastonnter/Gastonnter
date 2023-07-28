@@ -43,6 +43,10 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 - 
   ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
 
+-
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+
 ### Authentication with JWT:
 
 -
