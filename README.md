@@ -18,7 +18,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 
 ## 📚 Projects:
-- **Project 1:** [Project Title](https://github.com/your-username/project1) - Short description of the project.
+- **Project 1:** [Project Title](https://github.com/Gastonnter/My-Home-Page) - Short description of the project.
 - **Project 2:** [Project Title](https://github.com/your-username/project2) - Short description of the project.
 - **Project 3:** [Project Title](https://github.com/your-username/project3) - Short description of the project.
 <!-- Add more projects as needed -->
