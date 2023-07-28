@@ -2,7 +2,7 @@
 |---|
 
 `<code>
-<div style="color: #c9281b ; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> 
+<div style="color: orange ; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> 
 </code>`
 
 
