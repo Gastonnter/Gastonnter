@@ -80,6 +80,6 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 <p align="center">
   <a href="https://gastonterminiello.vercel.app/" target="_blank">
-    <img src="https://i.imgur.com/g1jshsc.png" alt="My Website" width="500">
+    <img src="https://i.imgur.com/g1jshsc.png" alt="My Website" style="border-radius: 10px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);" width="700">
   </a>
 </p>
