@@ -4,13 +4,14 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 ## 🌐 Socials:
 
-### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-terminiello) 
-
-### Discord
-Feel free to contact me on Discord:
-
-[![Contact Me on Discord](https://img.shields.io/badge/Contact%20Me%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8RHtTj5V)
+<div>
+  <a href="https://linkedin.com/in/gaston-terminiello">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/8RHtTj5V">
+    <img src="https://img.shields.io/badge/Contact%20Me%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 
