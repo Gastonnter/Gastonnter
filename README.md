@@ -22,6 +22,7 @@ Feel free to contact me on Discord:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=gastonnter&icon=0&color=0)](https://visitcount.itsvg.in)
 
