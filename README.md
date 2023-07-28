@@ -62,23 +62,19 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Education 🎓</strong></summary>
 
-- Degree in Computer Science, University Name, Year
-- Online Course, Platform, Year
-
-<!-- Add more education details as needed -->
+- Web Developer, Digital House,
 
 </details>
 
 <details>
 <summary><strong>Work Experience 💼</strong></summary>
 
-- Job Title, Company Name, Dates
-  - Job description and achievements.
+- Developer Backend, Ministerio de Justicia , Direccion de Desarrollo de Software-April 10th
+  - performing tasks in the backend area.
 
-- Job Title, Company Name, Dates
-  - Job description and achievements.
+- Developer Full Stack, MejorVendelo, eccomerce
+  - layout and design of the website.
 
-<!-- Add more work experience details as needed -->
 
 </details>
 
