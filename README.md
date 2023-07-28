@@ -79,11 +79,11 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 </details>
 
 <details>
-<summary><strong>🚀 Check Out My Website! 🌐</strong></summary>
+<summary style="text-align: center;"><strong>🚀 Check Out My Website! 🌐</strong></summary>
 
 <p align="center">
   <a href="https://gastonterminiello.vercel.app/" target="_blank">
-    <img src="https://i.imgur.com/g1jshsc.png" alt="My Website" style="border-radius: 10px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;" width="700">
+    <img src="https://i.imgur.com/g1jshsc.png" alt="My Website" style="border-radius: 10px; box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
 
