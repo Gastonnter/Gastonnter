@@ -9,7 +9,8 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 ## 💻 Tech Stack:
 
-### Programming Languages:
+<details>
+<summary><strong>Programming Languages:</strong></summary>
 
 - 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
