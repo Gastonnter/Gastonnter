@@ -69,10 +69,10 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Work Experience 💼</strong></summary>
 
-- Developer Backend, Ministerio de Justicia , Direccion de Desarrollo de Software-April 10th
+- Backend Developer , Ministerio de Justicia , Direccion de Desarrollo de Software-April 10th
   - performing tasks in the backend area.
 
-- Developer Full Stack, MejorVendelo, eccomerce
+- Full Stack Developer , MejorVendelo, eccomerce
   - layout and design of the website.
 
 
