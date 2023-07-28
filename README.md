@@ -2,7 +2,7 @@
 |---|
 
 <code><div style="color: orange ; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> </code>
-<span style="color:orange">orange</span> 
+(<span style="color:orange">orange</span>) 
 
 # Hi there, I'm Gaston Terminiello! 👋
 ## About Me
