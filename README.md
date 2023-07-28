@@ -17,19 +17,34 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 |                             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)   |                              |                |                            |
 
 
-## 📚 Projects:
+<details>
+<summary><strong>Projects 📚</strong></summary>
+
 - **Project 1:** [Project Title](https://github.com/Gastonnter/My-Home-Page) - Short description of the project.
 - **Project 2:** [Project Title](https://github.com/Gastonnter/mejorVendelo) - Short description of the project.
 - **Project 3:** [Project Title](https://github.com/ExperionSolution/ecommerce-node) - Short description of the project.
 <!-- Add more projects as needed -->
 
+</details>
 
-## 📫 Contact:
-- Email: terminiello.gastonnahue@gmail.com.com
+<details>
+<summary><strong>Contact 📫</strong></summary>
+
+- Email: terminiello.gastonnahue@gmail.com
 - Phone: +54-2215414540
 
-## 📈 GitHub Stats:
+</details>
+
+<details>
+<summary><strong>GitHub Stats 📈</strong></summary>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gastonnter&show_icons=true&theme=radical)
 
-## 🌟 Top Languages:
+</details>
+
+<details>
+<summary><strong>Top Languages 🌟</strong></summary>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gastonnter&layout=compact&theme=radical)
+
+</details>
