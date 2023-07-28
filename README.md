@@ -23,20 +23,13 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 - **Project 3:** [Project Title](https://github.com/ExperionSolution/ecommerce-node) - Short description of the project.
 <!-- Add more projects as needed -->
 
-## 🏆 Achievements:
-- Achieved [Achievement Name](https://example.com) in a competition or event.
-- Received recognition for [Recognition Name](https://example.com) for your contributions.
-
-## 📚 Certifications:
-- [Certification Name](https://example.com) - Certification description and issuing organization.
-- [Certification Name](https://example.com) - Certification description and issuing organization.
 
 ## 📫 Contact:
 - Email: your.email@example.com
 - Phone: +1234567890
 
 ## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gastonnter&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
