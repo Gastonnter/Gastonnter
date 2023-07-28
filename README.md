@@ -1,9 +1,9 @@
 | <div style="background-color: #c9281b ; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> |
 |---|
 
-`<code>
+<code>
 <div style="color: orange ; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> 
-</code>`
+</code>
 
 
 # Hi there, I'm Gaston Terminiello! 👋
