@@ -1,8 +1,9 @@
+# Hi there, I'm Gaston Terminiello! 👋
 
-## About Me
+I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information.
 
-Hello, I'm Gaston Terminiello! I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information. Connect with me on [LinkedIn](https://linkedin.com/in/gaston-terminiello) or reach out to me on Discord at username#1234. Let's chat!
-
+## 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)&nbsp;&nbsp;&nbsp; ![Contact Me on Discord](https://img.shields.io/badge/Contact%20Me%20on%20Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 💻 Tech Stack:
 
