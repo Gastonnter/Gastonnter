@@ -1,4 +1,6 @@
-| <div style="background-color: #c9281b; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> ||---|
+| <div style="background-color: #f0f0f0; padding: 10px;">Este es un párrafo con fondo de color gris claro.</div> |
+|---|
+
 
 
 # Hi there, I'm Gaston Terminiello! 👋
@@ -10,7 +12,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 &nbsp;&nbsp;&nbsp;
 [<img class="icon" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>](https://discord.gg/8RHtTj5V)
 
-|---|
+
 ## 💻 Tech Stack:
 
 <details>
