@@ -18,7 +18,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 - 
   ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript)
 </details>
-
+&nbsp;&nbsp;&nbsp;
 <details>
 <summary><strong>Frameworks and Platforms:</strong></summary>
 
@@ -31,7 +31,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 - 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
-
+&nbsp;&nbsp;&nbsp;
 <details>
 <summary><strong>Databases:</strong></summary>
 
@@ -44,21 +44,21 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 - 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 </details>
-
+&nbsp;&nbsp;&nbsp;
 <details>
 <summary><strong>Authentication with JWT:</strong></summary>
 
 - 
   ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge)
 </details>
-
+&nbsp;&nbsp;&nbsp;
 <details>
 <summary><strong>Containers:</strong></summary>
 
 - 
   ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 </details>
-
+&nbsp;&nbsp;&nbsp;
 <details>
 <summary><strong>Server-Side Language:</strong></summary>
 
