@@ -18,7 +18,6 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 
 
-
 <details>
 <summary><strong>Projects 📚</strong></summary>
 
