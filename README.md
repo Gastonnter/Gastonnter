@@ -10,7 +10,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 ## 💻 Tech Stack:
 
-| Programming Languages   | Frameworks  | Databases   | Authentication  | Containers   | Server-Side Language   |
+| PROGRAMMING LANGUAGES   | FRAMEWORKS  | DATABASES   | AUTHENTICATION  | CONTAINERS   | SERVER-SIDE LANGUAGE   |
 |-------------------------|--------------------------|-------------|--------------------------|--------------|------------------------|
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoWidth=50) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoWidth=50) | ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=50) | ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge&logoWidth=50) | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=50) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=50) |
 | ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript&logoWidth=50) | ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify&logoWidth=50) | ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoWidth=50) |                      |                      |                        |
