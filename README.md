@@ -62,14 +62,14 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Education 🎓</strong></summary>
 
-- Web Developer, Digital House,
+- Web development, Digital House,
 
 </details>
 
 <details>
 <summary><strong>Work Experience 💼</strong></summary>
 
-- Backend Developer , Ministerio de Justicia , Direccion de Desarrollo de Software-April 10th
+- Backend Developer , Ministerio de Justicia , Direccion de Desarrollo de Software_April 10th
   - performing tasks in the backend area.
 
 - Full Stack Developer , MejorVendelo, eccomerce
