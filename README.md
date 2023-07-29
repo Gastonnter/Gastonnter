@@ -20,7 +20,6 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 |                             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=120)   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=150)   |                              |                              |                            |
 
-
 <details>
 <summary><strong>Projects 📚</strong></summary>
 
