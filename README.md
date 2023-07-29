@@ -1,7 +1,7 @@
 # Hi there, I'm Gaston Terminiello! 👋
 
 ## About Me
-I am a highly adaptable individual with a strong desire to improve. I am a quick learner and constantly seek useful and updated information.
+I am a highly adaptable individual with a strong passion for technology. I thrive in the ever-evolving world of software development and find great joy in exploring new tools and frameworks. As a quick learner, I am always eager to acquire useful and updated information that can enhance my skills and contribute to innovative solutions. My commitment to continuous improvement drives me to stay up-to-date with the latest trends and advancements in the tech industry. I am enthusiastic about tackling challenging projects and collaborating with like-minded individuals to create impactful and cutting-edge solutions. My dedication to excellence and my love for problem-solving make me a valuable asset in any tech-related endeavor.
 
 ## 🌐 Socials:
 [<img class="icon" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/gaston-terminiello/)
