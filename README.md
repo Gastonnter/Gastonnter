@@ -10,15 +10,21 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 
 ## 💻 Tech Stack:
 
-| Programming Languages        | Frameworks and Platforms     | Databases                 | Authentication with JWT   | Containers                 | Server-Side Language       |
-|-----------------------------|------------------------------|---------------------------|----------------------------|----------------------------|----------------------------|
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoWidth=120)   | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoWidth=120) | ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=120)   | ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge&logoWidth=150)   | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=120)   | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=120)   |
+| Programming Languages        | Frameworks and Platforms     | Databases                 |
+|-----------------------------|------------------------------|---------------------------|
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoWidth=120)   | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoWidth=120) | ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=120)   |
 
+| Authentication with JWT    | Containers                 | Server-Side Language       |
+|----------------------------|----------------------------|----------------------------|
+| ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge&logoWidth=150)   | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=120)   | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=120)   |
 
-| ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript&logoWidth=120)   | ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify&logoWidth=120)   | ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoWidth=120)   |                              |                              |                            |
+|                             | Frameworks and Platforms     | Databases                 |
+|-----------------------------|------------------------------|---------------------------|
+| ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript&logoWidth=120)   | ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify&logoWidth=120)   | ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoWidth=120)   |
 
-
-|                             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=120)   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=150)   |                              |                              |                            |
+|                             | Frameworks and Platforms     | Databases                 |
+|-----------------------------|------------------------------|---------------------------|
+|                             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=120)   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=150)   |
 
 <details>
 <summary><strong>Projects 📚</strong></summary>
