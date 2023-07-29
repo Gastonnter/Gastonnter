@@ -51,9 +51,9 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Skills and Interests ✨</strong></summary>
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Effective Communication
+- Adaptability
+- Problem-Solving Attitude
 
 <!-- Add more skills and interests as needed -->
 
