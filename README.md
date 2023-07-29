@@ -9,12 +9,11 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 [<img class="icon" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>](https://discord.gg/8RHtTj5V)
 
 ## 💻 Tech Stack:
-
 | **Programming Languages**   | **Frameworks and Platforms** | **Databases**         | **Authentication with JWT** | **Containers** | **Server-Side Language**   |
 |-----------------------------|------------------------------|-----------------------|------------------------------|----------------|----------------------------|
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png) | ![JWT](https://jwt.io/img/pic_logo.svg)   | ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   |
-| ![Typescript](https://www.typescriptlang.org/assets/images/icons/favicon-32x32.png)   | ![Fastify](https://www.fastify.io/images/fastify-logo-notext.svg)  | ![MongoDB](https://www.mongodb.com/assets/images/global/favicon.ico)   |                              |                |                            |
-|                             | ![React](https://reactjs.org/favicon.ico)   | ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)   |                              |                |                            |
+| ![JavaScript](URL_LOGO_JS)   | ![Express.js](URL_LOGO_EXPRESS) | ![MySQL](URL_LOGO_MYSQL) | ![JWT](URL_LOGO_JWT)   | ![Docker](URL_LOGO_DOCKER) | ![Node.js](URL_LOGO_NODEJS)   |
+| ![Typescript](URL_LOGO_TYPESCRIPT)   | ![Fastify](URL_LOGO_FASTIFY)  | ![MongoDB](URL_LOGO_MONGODB)   |                              |                |                            |
+|                             | ![React](URL_LOGO_REACT)   | ![PostgreSQL](URL_LOGO_POSTGRESQL)   |                              |                |                            |
 
 
 
