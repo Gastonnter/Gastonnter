@@ -20,9 +20,9 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Projects 📚</strong></summary>
 
-- **My Home Page:** [(https://github.com/Gastonnter/My-Home-Page)]- 
-- **Mejor Vendelo:** .[(https://github.com/Gastonnter/mejorVendelo)] -
-- **Ecommerce:** [(https://github.com/ExperionSolution/ecommerce-node)] - 
+- **My Home Page:** (https://github.com/Gastonnter/My-Home-Page)- 
+- **Mejor Vendelo:** .(https://github.com/Gastonnter/mejorVendelo) -
+- **Ecommerce:** (https://github.com/ExperionSolution/ecommerce-node) - 
 <!-- Add more projects as needed -->
 
 </details>
