@@ -30,7 +30,7 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 <details>
 <summary><strong>Contact 📫</strong></summary>
 
-- Email: terminiello.gastonnahue@gmail.com
+- Email: terminiello.gastonnahuel@gmail.com
 - Phone: +54-2215414540
 
 </details>
