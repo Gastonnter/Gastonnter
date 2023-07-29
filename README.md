@@ -11,9 +11,10 @@ I am a highly adaptable individual with a strong desire to improve. I am a quick
 ## 💻 Tech Stack:
 | **Programming Languages**   | **Frameworks and Platforms** | **Databases**         | **Authentication with JWT** | **Containers** | **Server-Side Language**   |
 |-----------------------------|------------------------------|-----------------------|------------------------------|----------------|----------------------------|
-| ![JavaScript](URL_LOGO_JS)   | ![Express.js](URL_LOGO_EXPRESS) | ![MySQL](URL_LOGO_MYSQL) | ![JWT](URL_LOGO_JWT)   | ![Docker](URL_LOGO_DOCKER) | ![Node.js](URL_LOGO_NODEJS)   |
-| ![Typescript](URL_LOGO_TYPESCRIPT)   | ![Fastify](URL_LOGO_FASTIFY)  | ![MongoDB](URL_LOGO_MONGODB)   |                              |                |                            |
-|                             | ![React](URL_LOGO_REACT)   | ![PostgreSQL](URL_LOGO_POSTGRESQL)   |                              |                |                            |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoWidth=50)   | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&logoWidth=80) | ![MySQL](https://img.shields.io/badge/mysql-%23ffffff.svg?style=for-the-badge&logo=mysql&logoColor=blue&logoWidth=60) | ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-JWT-%232496ED?style=for-the-badge&logoWidth=90)   | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=70) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=60)   |
+| ![Typescript](https://img.shields.io/badge/TYPESCRIPT-99ccff?style=for-the-badge&logo=typescript&logoWidth=70)   | ![Fastify](https://img.shields.io/badge/Fastify-ca4d30?style=for-the-badge&logo=fastify&logoWidth=60)  | ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logoWidth=60)   |                              |                |                            |
+|                             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=70)   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=90)   |                              |                |                            |
+
 
 
 
