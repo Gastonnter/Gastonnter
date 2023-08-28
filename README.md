@@ -35,9 +35,10 @@ I am a highly adaptable individual with a strong passion for technology 🚀. I 
 </details>
 
 <details>
-<summary><strong>GitHub Stats 📈</strong></summary>
+<summary><strong>GitHub and GitLab Stats 📈</strong></summary>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gastonnter&show_icons=true&theme=radical)
+![Your GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=T.gaston&show_icons=true&theme=radical).
 
 </details>
 
@@ -48,7 +49,7 @@ I am a highly adaptable individual with a strong passion for technology 🚀. I 
 
 </details>
 <details>
-<summary><strong>Skills and Interests ✨</strong></summary>
+<summary><strong>Skills ✨</strong></summary>
 
 - Effective Communication
 - Adaptability
@@ -87,7 +88,3 @@ I am a highly adaptable individual with a strong passion for technology 🚀. I 
 </p>
 
 </details>
-
-# Estadísticas de GitLab
-
-Puedes encontrar mis estadísticas de GitLab [aquí](https://gitlab-readme-stats.vercel.app/api?username=T.gaston&show_icons=true&theme=radical).
