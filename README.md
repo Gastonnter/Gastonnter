@@ -87,3 +87,7 @@ I am a highly adaptable individual with a strong passion for technology 🚀. I 
 </p>
 
 </details>
+
+# Estadísticas de GitLab
+
+Puedes encontrar mis estadísticas de GitLab [aquí](https://gitlab-readme-stats.vercel.app/api?username=T.gaston&show_icons=true&theme=radical).
