@@ -38,7 +38,7 @@ I am a highly adaptable individual with a strong passion for technology 🚀. I 
 <summary><strong>GitHub and GitLab Stats 📈</strong></summary>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gastonnter&show_icons=true&theme=radical)
-![Your GitLab Stats](https://gitlab.mjus.gba.gob.ar-readme-stats.vercel.app/api?username=T.gaston&show_icons=true&theme=radical).
+![Your GitLab Stats](https://gitlab-mjus-gba-gob-ar-readme-stats.vercel.app/api?username=T.gaston&show_icons=true&theme=radical).
 
 
 </details>
