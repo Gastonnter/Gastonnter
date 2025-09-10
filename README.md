@@ -9,7 +9,7 @@
   📍 Buenos Aires, Argentina | 💼 Passionate about creating scalable web solutions
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.gastonterminiello.vercel.app-blue?style=for-the-badge&logo=vercel)](http://www.gastonterminiello.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.gastonterminiello.vercel.app-blue?style=for-the-badge&logo=vercel)](https://www.gastonterminiello.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-terminiello.gastonnahuel@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:terminiello.gastonnahuel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gaston--terminiello-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaston-terminiello/)
 
